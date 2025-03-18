@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-import App1 from "./App1";
+import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App1 name="Cathy" age={23} />);
+root.render(<App name="Cathy" age={23} />);
 
