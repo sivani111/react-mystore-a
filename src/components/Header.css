@@ -1,7 +1,11 @@
 .App-Header-Row{
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 10px 20px;
     background-color: rgb(205, 166, 255);
+}
+
+.App-Header-Link {
+    margin: 5px;
+    font-size: 20px;
 }

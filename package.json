@@ -1,4 +1,5 @@
-{"name": "react-mystore-a",
+{
+  "name": "react-store-a",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
