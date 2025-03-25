@@ -1,6 +1,6 @@
 .App-Register-Row{
     display: flex;
-    justify-content:space-around ;
+    justify-content:center ;
     /* border: solid 1px black; */
     padding:20px;
     margin: 20px;
